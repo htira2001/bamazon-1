@@ -37,12 +37,12 @@ Mariam S. Chaudry [GitHub](https://github.com/mariamschaudry)
 * npm packages:
 	- [mysql](https://github.com/felixge/node-mysql)
 	- [prompt](https://github.com/flatiron/prompt)
-	- [colors/safe](https://github.com/Marak/colors.js)
 	- [cli-table](https://github.com/Automattic/cli-table)
 
 
 
 #### License
+***
 
 Copyright 2018 Georgia Tech Coding Bootcamp 
 

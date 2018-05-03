@@ -34,7 +34,7 @@ Mariam S. Chaudry [GitHub](https://github.com/mariamschaudry)
 * MySQL
 ***
 
-### NPM Packages Used
+### NPM Packages Used:
 * inquirer
 * mysql
 * cli-table

@@ -22,27 +22,25 @@ The Bamazon Customer Portal allows users to view and edit the inventory of the s
 * View low inventory
 * Add to inventory
 * Add a new product
+***
 
 #### Contributors:
-***
-
 Mariam S. Chaudry [GitHub](https://github.com/mariamschaudry)
+***
 
 #### Technologies Used:
-***
-
 * Javascript
 * nodeJS
 * MySQL
-* npm packages:
-	- [mysql](https://github.com/felixge/node-mysql)
-	- [prompt](https://github.com/flatiron/prompt)
-	- [cli-table](https://github.com/Automattic/cli-table)
-
-
-
-#### License
 ***
+
+### NPM Packages Used
+* inquirer
+* mysql
+* cli-table
+
+***
+#### License
 
 Copyright 2018 Georgia Tech Coding Bootcamp 
 

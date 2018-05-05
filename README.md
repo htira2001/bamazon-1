@@ -38,6 +38,7 @@ Mariam S. Chaudry [GitHub](https://github.com/mariamschaudry)
 * inquirer
 * mysql
 * cli-table
+* chalk 
 
 ***
 #### License

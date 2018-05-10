@@ -26,3 +26,7 @@ VALUES ("Herbal Essences Argan Oil of Morocco Shampoo & Conditioner Pack", "Heal
 ("Spicy Sriracha-Ranch Kale Salad", "Food", 4.99, 6), 
 ("Huggies 80-count Baby Wipes", "Personal Care", 3.49, 10), 
 ("essie Wild Nude Nail Polish", "Cosmetics", 9.00, 16);
+
+
+DELETE from bamazon.products WHERE item_id = 11
+
